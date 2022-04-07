@@ -17,3 +17,8 @@ The sample dataset summarizes the usage behavior of about 9000 active credit car
 - Objective : 
 Try to group debtors using K-means clustering so that there are distinct groups corresponding to those who are "bad" credits vs those who are "good." 
 use the target values after clustering and compute the percentage of good credit vs bad credit for each group and your overall accuracy of prediction using cluster
+
+
+
+
+Author: Sunhwa Lauren Lee
