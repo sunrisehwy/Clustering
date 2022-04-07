@@ -5,7 +5,7 @@ Class Exercise : Clustering Model
 (1) Credit Card Dataset for Clustering 
 (Kaggle, https://www.kaggle.com/datasets/arjunbhasin2013/ccdata?taskId=5731)
 
-- Method : KNN
+- Method : K-means
 - Objective: 
 Model development to develop a customer segmentation model to define a marketing strategy. 
 The sample dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
