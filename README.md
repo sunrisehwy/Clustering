@@ -13,7 +13,7 @@ The sample dataset summarizes the usage behavior of about 9000 active credit car
 (2) South German Credit Data 
 (UCI, https://archive.ics.uci.edu/ml/datasets/South+German+Credit+%28UPDATE%29)
 
-- Method :
+- Method : K-means
 - Objective : 
 Try to group debtors using K-means clustering so that there are distinct groups corresponding to those who are "bad" credits vs those who are "good." 
 use the target values after clustering and compute the percentage of good credit ("1" in the target column) vs bad credit ("0" in the target column) for each group and your overall accuracy of prediction using cluster
